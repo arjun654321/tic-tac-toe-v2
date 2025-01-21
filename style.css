@@ -48,7 +48,7 @@ h3 {
     height: 100%;
     width: 100%;
     left: 100%;
-    background: #f2f2f2;
+    background: ##6a6262;
     z-index: 99;
 }
 
@@ -181,7 +181,7 @@ h3 {
     height: 33.33%;
     width: 33.33%;
     float: left;
-    border: 10px solid #f2f2f2;
+    border: 10px solid #333235;
     box-sizing: border-box;
 }
 
